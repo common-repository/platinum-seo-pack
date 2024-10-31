@@ -1,0 +1,217 @@
+= 2.4.0=
+2021-08-25 - Tested upto 5.8
+
+= 2.3.9=
+2021-04-27 - Version updated incorrectly in the main file
+
+= 2.3.8=
+2021-04-27 - A change has been made to accomodate JSON schema even if entered with the script tag. The plugin will sanitize and save the schema. Multiple schemas can simply be entered as comma separated script tags and the plugin will automatically combine them and use them to generate schema correctly.
+
+= 2.3.7=
+2021-04-25 - Platinum SEO is now integrated with WordPress REST API. You can now GET the SEO meta data for any Post/Page/Taxonomy/Home from the plugin as a field psp_head included in responses to requests via the built-in WordPress REST API Endpoints like those for Posts, Types, etc. The other way to retrieve the SEO meta data is through the plugin's own custom Endpoint. You may find the details in the blog post.
+
+= 2.3.6=
+2021-03-10 - Removed the meta tag added by the newly introduced robots api in wordPress 5.7. Added the ability to specify currentyear to title and description formats. You can also  directly add the tag variables in the title field and the meta description field. While the title description formats allow you to add the tag variables only towards the beginning or end, you can now add the tag variables anywhere in between the meta title or description text. You can add the tag variable  manually to these Platinum SEO meta fields in Post types.
+
+= 2.3.5=
+2021-02-27 - In focus keyword analysis, when a multiple word keyphrase is entered, the count of the phrase in content and its density was calculated wrongly. It has been corrected in this version.
+
+= 2.3.4=
+2021-02-23 - corrected the Tools menu on the admin bar that was earlier throwing an error.
+
+= 2.3.3=
+2021-02-01 - consolidated the Platinum SEO menus. made changes to Role Manager for more granular control on Platinum SEO menus to various roles.
+
+= 2.3.2=
+2021-01-15 - Bulk Editor now lets you add JSON Schema to all Post types in bulk.
+
+= 2.3.1=
+2021-01-15 - Bulk Editor now lets you add JSON Schema to all Post types in bulk.
+
+= 2.3.0=
+2021-01-12 - Made the Bulk Editor to retrieve only Builtin and Custom Post Types. Made similar changes to Redirections module.
+
+= 2.2.9 =
+2021-01-10 - Added a Bulk Edit Feature to SEO - Editors. Users can now edit SEO Titles and Descriptions in bulk. Made a few changes to the way Posts can be searched in Redirections module.
+
+= 2.2.8 =
+2020-12-28 - Made some alterations to 404 Manager and Redirections Manager to make it more user friendly. Included an option to retrieve all Posts in Redirections manager. one can also filter the Posts based on Post name or WordPress title. This would make it easier to create redirections in bulk for Posts (all post types). Restricted the filtering option to Posts while Redirected URLs may only be retrieved as a whole (All option). The same also applies to Redirection logs which are created for Redirected URLs if one chooses to log the redirect. The log entries can be deleted as a whole or selectively.
+
+= 2.2.7 =
+2020-12-23 - In the export import utility, added a message to indicate the number of rows imported. This will help users to know whether all the rows in the file have been imported. Further, added translational options for the various headers and messages.
+
+= 2.2.6 =
+2020-12-20 - The plugin now has an Export/Import Utility to export Platinum SEO Options (Sitewide Settings) and platinum SEO Meta Data (of all Post types). You may find this utility in Platinum SEO and social Pack -> Tools.
+
+= 2.2.5 =
+2020-12-04 - Resolved the authorization error thrown for roles other than Admin, like Editor role etc. while trying to access a POST to which the Role has not been assigned access to Platinum SEO Metabox in role Manager.
+
+= 2.2.4 =
+2020-12-02 - Provided an option to disable published and modified time being added as open graph tags for article og type. Added a button to exit the setup wizard that is triggered on plugin activation.
+
+= 2.2.3 =
+2020-11-21 - Fixed dashboard console menu disappearing from the WordPress Admin.
+
+= 2.2.2 =
+2020-11-21 - Fixed a bug that caused he featured image to be not set when using the classic editor plugin in WordPress. Fixed a bug that was logging an "Headers already Sent" error when updating a post.
+
+= 2.2.1 =
+* 2020-11-20 - Introduced a comprehensive Role Manager that can be used to control who (which role) can access which Platinum SEO Settings. Introduced a SetUp wizard to make it easy for users installing Platinum SEO WordPress Plugin to configure various settings. It also makes it easy for users migrating from other popular SEO plugin to platinum SEO, to setup the SEO configuration. Fixed a few bugs in sitemap settings. Made the 404 guessing workaround to be compatible with the latest changes in WordPress 5.5.0.
+
+= 2.2.0 =
+* 2020-09-06 - Fixed a bug that caused  the Platinum SEO Meta Box not to render in Post type 'Post' and custom Post typeswhen the category name has a single quote or apostrophe.
+
+= 2.1.9 =
+* 2020-08-18 - Fixed a bug in V2.1.8 that caused  the Platinum SEO Meta Box not to render in Post type 'Page' and custom Post types.
+
+= 2.1.8 =
+* 2020-08-11 - Compatible with WordPress 5.5. Added support for migration of data from All in One SEO Pack.
+
+= 2.1.7 =
+* 2020-07-13 - Fixed bugs in JS files to be compliant with the proposed JQuery versions in WordPress 5.5 and beyond. Since WordPress sitemap files is proposed to be integrated into the Core in V5.5, made the necessary changes in the plugin's version of the files.
+
+= 2.1.6 =
+* 2020-07-07 - Fixed a bug in rendering of static Front page Platinum SEO settings (i.e. meta description and canonical tags) when multiple Static pages are used as front page by multilingual plugins like Polylang. This bug had an impact only on users of multilingual plugins.
+
+= 2.1.5 =
+* 2020-07-06 - A change has been made whereby the user is given an option to choose to display either the Home Page Settings(default) or the platinum SEO settings for the Static Page chosen as the Home Page (Front Page). This option isn't necessary for everyone, unless you are using, say, multilingual plugins like Polylang where multiple pages can be chosen as the Front Page i.e. one for each language. This need not be enabled by others.
+Deprecated noodp, noydir robots meta tags.
+
+= 2.1.4 =
+* 2020-06-23 - You can now set a preferred Term for every POST. This can be set for the chosen Preferred Taxonomy. 
+Fixed a bug in sitemap date display. Introduced an analyse button in Analysis screen which will calculate the metrics for the most recent unsaved changes in content. Adds nofollow to Post comment feed links as suggested by Google. the plugin will also hide the main comment feed link by default. 
+
+= 2.1.3 =
+* 2020-06-12 - Integrated the latest WordPress sitemap files.
+
+= 2.1.2 =
+* 2020-06-01 - Sitemap has been further enhanced with the latest WordPress sitemap files. Also a few styling changes have been implemented to the sitemap rendered by the plugin. A few other cosmetic changes have been done to Help text wordings in a few files.
+
+= 2.1.1 =
+* 2020-05-22 - Platinum SEO Plugin becomes the first SEO plugin to integrate with the upcoming SiteMap functionality in WordPress Core. The Core siteMap is still in development and Platinum SEO has integrated with the currently available version of the Core Module. If you do like to generate a sitemap with Platinum SEO, do enable it and enable the Object Types for which you want to generate a sitemap in SiteMap settings in Platinum SEO.
+
+= 2.1.0 =
+* 2020-05-16 - Platinum SEO Plugin will now have its own SEO meta table _platinumseometa. All the SEO meta data used by the plugin will now be in this table. Importers for Yoast, Yoast Indexables and RankMath WordPress SEO Plugins have now been included to make it easy for users using those plugins to migrate to Platinum SEO WordPress Plugin.
+
+= 2.0.9 =
+* 2020-04-16 - Redirection can now be created using Request URI, Request Path or Request URL as the source URL.
+
+= 2.0.8 =
+* 2020-04-12 - Fixed a bug that prevented Redirection from getting created when "Create Redirection" was clicked in Platinum SEO 404 Manager. However, the ability to create Redirection through "Bulk Updates" dropdown was working as expected.
+Modified a Javascript related to snippet preview. Hence it is essential for users to clear browser cache after updating the plugin to V2.0.8. Otherwise, browsers will continue to use the old Javascript file stored in its cache. causing issues
+Platinum SEO Plugin now enables its users to disable 404 Permalink guessing that WordPress does as part of its canonical redirect function. Though this function does several useful SEO related functionalities, this guessing may prove to be harmful in certain cases and it is always better to let the WordPress user determine the URL to redirect to by monitoring the 404 Error Log.This can be done easily using Platinum SEO WordPress Plugin. For more details, read Techblissonline.
+
+= 2.0.7 =
+* 2020-04-05 - Updation to help file links in Redirections Settings.
+
+= 2.0.6 =
+* 2020-04-05 - Introduces a complete HTTP Redirections Manager. It also now has a 404 Manager that lets you track and fix any 404 Error. This 404 Manager is integrated with Redirections to resolve the 404 Error by Creating appropriate HTTP Redirection. Make sure to clear browser cache after updating the plugin.
+
+= 2.0.5 =
+* 2020-02-21 - Introduces Patinum SEO Content analysis that does a basic analysis of your content for focus keywords that you need to enter in meta ketwords input field as comma separated items. Note that meta keywords can be turned off sitewide in SEO -> General settings, if you do not want to add a meta keywords tag for posts and /or pages. You can even control it at the post or page level by switching it On/Off, if the sitewide setting is ON. Sitewide setting is Off by default. But you can get content analysis findings in your analysis dashboard, even if it is switched off. Also fixed a few other minor bugs.
+
+= 2.0.4 =
+* 2020-02-12 - Changed a style setting to apply to this plugin admin pages alone thereby avoiding conflict with WordPress admin and other plugin style settings. Created options for users to specify Facebook OG type and Twitter card type for each individual post or page in Basic social settings.
+
+= 2.0.3 =
+* 2020-02-11 - Made some changes to UI to improve usability. Also fixed a small superficial bug in snippet preview. Colors codes have been used. Blue is neutral or normal and can be positive or negative depending on the situation. Green indicates positive and recommended. Red indicates negative and not recommended. Users have to be doubly sure to make an option red. Orange indicates a warning and the users need to be careful.
+
+= 2.0.2 =
+* 2020-02-07 - Fixed an issue that was causing featured image not to be set for Posts and Pages. 
+
+= 2.0.1 =
+* 2020-02-06 - Fixed an issue that does not pull description for existing users of the plugin, in respect of posts where they had filled them (description) in the older version of Platinum SEO Pack.
+
+= 2.0.0 =
+* 2020-02-01 - Techblissonline Platinum SEO WordPress plugin has been completely rewritten and it now offers several new features in addition to fixing the bugs in the earlier version and improving Plugin Security.
+
+= 1.3.8 =
+* 2013-09-12 - Fixed a security issue (thanks to James Pearson)
+= 1.3.7 =
+* 2010-12-01 - Just a day after I released 1.3.6, WordPress released 3.0.2 to fix a few security issues.I am releasing a fresh version after testing with this one
+
+= 1.3.6 =
+* 2010-11-30 - Added Plugin meta box for custom post types - Version 1.3.6
+
+* 2010-11-11 - Space after closing php tag removed. - Version 1.3.5
+
+* 2010-09-24 - Support for custom taxonomies. You can now have a title format that includes the custom taxonomy term in your title for the custom taxonomy archive page.
+* 2010-09-24 - Some minor superficial bug corrections
+
+2010-05-23 Rajesh (http://techblissonline.com/) - Version 1.3.3
+  * Made compatible with Brian Clark's Scribe SEO LLC.Brian Clark is a copywriting expert and founder of http://www.copyblogger.com. He is an influential online marketer and a successful entrepreneur.
+  
+2010-02-13 Rajesh (http://techblissonline.com/) - Version 1.3.2
+  * Compatible with Worpress 2.9.1
+  
+2009-10-04 Rajesh (http://techblissonline.com/) - Version 1.3.1
+  * Compatible with Worpress 2.8.5
+
+2009-10-04 Rajesh (http://techblissonline.com/) - Version 1.3
+  * Added an option to turn off post/page title format set in platinum seo settings for any particular post/page.
+  * Platinum seo will have its own top level menu in WordPress admin panel.
+  * Added a migration form for migrating from All in one seo to platinum seo.
+  
+2009-09-27 Rajesh (http://techblissonline.com/) - Version 1.2.9
+
+	* added an option to turn on or off title rewrites for every post or page.
+           platinum_seo_pack.php
+		   
+2009-09-11 Rajesh (http://techblissonline.com/) - Version 1.2.8
+
+	* fixed a superficial bug related to function_exists that caused php errors.
+           platinum_seo_pack.php
+
+2009-08-30 Rajesh (http://techblissonline.com/) - Version 1.2.7
+
+	* added options to specify meta description and meta tags for WordPress category and tag pages.
+           platinum_seo_pack.php
+
+2009-05-25 Rajesh (http://techblissonline.com/) - Version 1.2.6
+
+	* Corrected a minor problem with canonical link.
+           platinum_seo_pack.php
+
+2009-05-24 Rajesh (http://techblissonline.com/) - Version 1.2.5
+
+	* Corrected a minor characterset problem for an european language (Bulgarian).
+           platinum_seo_pack.php
+
+2009-05-18 Rajesh (http://techblissonline.com/) - Version 1.2.4
+
+	* Introduced Option to generate Canonical URLs.
+        * Introduced an Option to use tags as keywords for posts (Earlier tags were automatically included and now it is optional)        
+	  platinum_seo_pack.php
+
+2008-01-04 Rajesh (http://techblissonline.com/) - Version 1.2.3
+
+	* Introduced an option to noindex comments pages of posts, if the option to break comments into pages is chosen in WordPress 2.7
+    * Automatically add nofollow tag to category links in breadcrumbs if the PSP options nofollow category listings on posts or nofollow category listings on pages  is chosen.	
+	  platinum_seo_pack.php
+	  
+2008-12-28 Rajesh (http://techblissonline.com/) - Version 1.2.2
+
+	* Updated for WordPress 2.7	
+	  platinum_seo_pack.php
+	  
+2008-10-12 Rajesh (http://techblissonline.com/) - Version 1.2.1
+
+	* Updated for providing an option to turn off  automatic 301 redirects while changing permalink structure 
+	(Refer http://techblissonline.com/wordpress-permalink-structure-plugin/)
+	
+	  platinum_seo_pack.php
+
+2008-08-17 Rajesh (http://techblissonline.com/)
+
+	* Updated for providing Nofollow option for archive listings
+	  platinum_seo_pack.php
+
+2008-07-17 Rajesh (http://techblissonline.com/)
+
+	* Updated for WordPress 2.6
+	  platinum_seo_pack.php
+
+2008-06-25 Rajesh (http://techblissonline.com/)
+
+	* Initial upload of plugin Platinum SEO Pack
+

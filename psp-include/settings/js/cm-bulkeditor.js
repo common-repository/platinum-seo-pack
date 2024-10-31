@@ -1,0 +1,1 @@
+jQuery(document).ready(function(e){if(e(".pspjsoneditor").length){var o=wp.codeEditor.defaultSettings?_.clone(wp.codeEditor.defaultSettings):{};o.codemirror=_.extend({},o.codemirror,{autorefresh:!0,matchBrackets:!0,autoCloseBrackets:!0,mode:"application/ld+json",lineWrapping:!0}),e(".pspjsoneditor").each(function(){wp.codeEditor.initialize(e(this),o)})}});

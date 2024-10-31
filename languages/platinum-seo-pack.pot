@@ -1,0 +1,2306 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: psp-include/settings/psp_pre_settings.php:793
+#: psp-include/settings/psp_pre_settings.php:810
+#: psp-include/settings/psp_settings.php:1685
+#: psp-include/settings/psp_settings.php:1699
+#: psp-include/settings/psp_settings.php:1727
+#: psp-include/settings/psp_settings.php:1750
+#: psp-include/settings/psp_settings.php:1763
+#: psp-include/settings/psp_settings.php:1776
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-17 19:12+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: psp_main.php:265
+msgid "Thank you for using Platinum SEO Plugin!"
+msgstr ""
+
+#: psp_main.php:265
+msgid "See What has Changed in this Version 2.0.9 and V2.0.8!"
+msgstr ""
+
+#: psp_main.php:267
+msgid "Dismiss permanently"
+msgstr ""
+
+#: psp_main.php:267
+msgid "Make sure to clear browser cache after you update to this version!"
+msgstr ""
+
+#: psp_main.php:818
+msgid "Platinum SEO"
+msgstr ""
+
+#: psp_main.php:825
+msgid "Keyword Research"
+msgstr ""
+
+#: psp_main.php:841
+msgid "AdWords External"
+msgstr ""
+
+#: psp_main.php:849
+msgid "Google Insights"
+msgstr ""
+
+#: psp_main.php:889
+msgid "Analyze this page"
+msgstr ""
+
+#: psp_main.php:897
+msgid "Analyze your onpage SEO"
+msgstr ""
+
+#: psp_main.php:905
+msgid "Check Keyword Density"
+msgstr ""
+
+#: psp_main.php:913
+msgid "Check Inlinks (OSE)"
+msgstr ""
+
+#: psp_main.php:921
+msgid "Check Google Cache"
+msgstr ""
+
+#: psp_main.php:929
+msgid "Check Headers"
+msgstr ""
+
+#: psp_main.php:937
+msgid "Check Rich Snippets"
+msgstr ""
+
+#: psp_main.php:945
+msgid "Facebook Debugger"
+msgstr ""
+
+#: psp_main.php:953
+msgid "Pinterest Rich Pins Validator"
+msgstr ""
+
+#: psp_main.php:961
+msgid "HTML Validator"
+msgstr ""
+
+#: psp_main.php:969
+msgid "CSS Validator"
+msgstr ""
+
+#: psp_main.php:977
+msgid "Google Page Speed Test"
+msgstr ""
+
+#: psp_main.php:985
+msgid "Modern IE Site Scan"
+msgstr ""
+
+#: psp_main.php:993
+msgid "Mobile-Friendly Test"
+msgstr ""
+
+#: psp_main.php:1020
+msgid "Platinum SEO Settings"
+msgstr ""
+
+#: psp_main.php:1027 psp-include/settings/psp_settings.php:2792
+msgid "SEO"
+msgstr ""
+
+#: psp_main.php:1034
+msgid "SEO - Tools"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:178
+msgid "Browse:"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:179
+msgid "Home"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:180
+msgid "404 Not Found"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:181
+msgid "Archives"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:183
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:185
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:187
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:189
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:717
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:734
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:751
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:767
+#: psp-include/generators/breadcrumbs.php:796
+#: psp-include/generators/breadcrumbs.php:823
+#: psp-include/generators/breadcrumbs.php:850
+#: psp-include/generators/breadcrumbs.php:1037
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:768
+#: psp-include/generators/breadcrumbs.php:824
+#: psp-include/generators/breadcrumbs.php:1041
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:769
+#: psp-include/generators/breadcrumbs.php:1045
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:797
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:1136
+#: psp-include/generators/breadcrumbs.php:1172
+#: psp-include/generators/breadcrumbs.php:1189
+#: psp-include/generators/breadcrumbs.php:1220
+msgid "Edit"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:1164
+msgid "Split"
+msgstr ""
+
+#: psp-include/generators/breadcrumbs.php:1168
+msgid "Merge"
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:69
+msgid "Source ID: "
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:74
+msgid "Source URI: "
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:75
+#: psp-include/settings/psp_redirect_list_renderer.php:81
+msgid "Enter the source URI or URL "
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:79
+#: psp-include/settings/psp_redirect_list_renderer.php:85
+msgid "Redirect to: "
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:80
+#: psp-include/settings/psp_redirect_list_renderer.php:86
+msgid "Enter a valid Destination URL "
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:83
+#: psp-include/settings/psp_redirect_list_renderer.php:89
+msgid "Redirection Method: "
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:83
+#: psp-include/settings/psp_advanced_metabox_renderer.php:105
+#: psp-include/settings/psp_redirect_list_renderer.php:89
+msgid "What to Select?"
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:93
+#: psp-include/settings/psp_redirect_list_renderer.php:103
+msgid "Add New"
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:95
+#: psp-include/settings/psp_404_list_renderer.php:194
+#: psp-include/settings/psp_redirect_list_renderer.php:105
+msgid "Cancel"
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:118
+#: psp-include/settings/psp_redirect_list_renderer.php:153
+msgid "Delete"
+msgstr ""
+
+#: psp-include/settings/psp_404_list_renderer.php:131
+#: psp-include/settings/psp_redirect_list_renderer.php:101
+msgid "Update"
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:9
+msgid ""
+"These are some settings specific to this page (post). If these are not set, "
+"appropriate defaults will be used for meta tags.However, you need to "
+"manually set the combined Json Schema for this page in the below mentioned "
+"option for Json schema support. "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:12
+msgid "Add index/noindex:"
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:16
+msgid ""
+"noindex - Tells search engines to not include this page in the index or to "
+"not have a copy of this page in their database. It thus tells search engines "
+"to not consider this page for showing to their users on their SERPS."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:21
+msgid "Add follow/nofollow:"
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:25
+msgid ""
+"nofollow - Tells search engines to not follow links on this page, meaning to "
+"not pass on link credits, if any, assigned by the search engines to the link "
+"assignee."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:29
+msgid "Add noarchive: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:34
+msgid ""
+"noarchive - Tells search engines to not show Cached link in SERPS (Search "
+"Engine Result Pages) for this page. It thus tells search engines not to "
+"store a cached copy of the page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:38
+msgid "Add nosnippet: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:43
+msgid ""
+"nosnippet - Tells search engines to not show snippet (description) in SERPS "
+"(Search Engine Result Pages) for this page. It also tells search engines not "
+"to show a cached link in SERPS for this page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:47
+msgid "Add noimageindex: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:52
+msgid ""
+"noimageindex - Tells search engines like google to not index any image  on "
+"this page. It must however be remembered that if any of the image is linked "
+"to by some other page, it will get indexed."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:56
+msgid "Max Video Preview: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:57
+msgid " Seconds. [Optional]"
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:58
+msgid "Set max video preview length directive to Google for this post/page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:58
+#: psp-include/settings/psp_basic_metabox_renderer.php:163
+msgid "Read more"
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:62
+msgid "Max Image Preview [optional]: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:67
+msgid " Select the max image preview directive to Google for this post/page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:71
+msgid "Canonical URL: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:75
+msgid ""
+"Set the canonical URL to be used for this page. Leave this empty for "
+"canonical URL to default to permalink of this page. Cross domain canonical "
+"URL may also be set here to handle duplicates.When this is switched Off, "
+"Canonical meta tag will not be generated by Platinum SEO for this page. "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:79
+msgid "Exclude from sitemap: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:84
+msgid ""
+"Switching this ON Tells sitemap generator to not include this page in the "
+"sitemap."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:88
+msgid "JSON_LD Schema String: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:88
+msgid "Techblissonline Json Schema Generator Tool"
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:88
+msgid "How to combine several Json schema?"
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:90
+msgid ""
+"Set JSON_LD Schema String (without the script tag) for this post/page. Use"
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:90
+msgid "Techblissonline Schema Generator Tool"
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:95
+msgid "Redirect Settings "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:99
+#: psp-include/settings/psp_settings.php:1603
+msgid "Redirect To: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:101
+msgid "Set the URL to redirect users and crawlers landing on this page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:105
+msgid "Use: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:110
+#: psp-include/settings/psp_settings.php:1584
+msgid ""
+" Set the HTTP status code to use for this redirection. It is highly "
+"recommended to use 301 redirects in most cases, except where the redirection "
+"is of temporary nature."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:116
+#: psp-include/settings/psp_basic_metabox_renderer.php:169
+msgid "Preferred Taxonomy for Breadcrumb Trail: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:121
+#: psp-include/settings/psp_basic_metabox_renderer.php:174
+msgid ""
+" Select the preferred taxonomy whose term you prefer to use for this page, "
+"if the page is tagged to multiple taxonomies."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:127
+msgid "Disable Settings "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:131
+msgid "Platinum SEO Title: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:135
+msgid "Switching this Off Disables Platinum SEO title for this page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:139
+msgid "Platinum SEO Meta Description: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:143
+msgid ""
+"Switching this Off Disables Platinum SEO meta description for this page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:147
+msgid "Platinum SEO Meta Keywords: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:151
+msgid "Switching this Off Disables Platinum SEO meta keywords for this page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:155
+msgid "Platinum SEO Canonical URL: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:159
+msgid ""
+"Switching this Off Disables canonical URL generated by Platinum SEO for this "
+"page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:163
+msgid "Platinum SEO Title Format Settings: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:167
+msgid ""
+"Switching this Off Disables Platinum SEO title format settings for this page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:171
+msgid "Platinum SEO Description Format Settings: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:175
+msgid ""
+"Switching this Off Disables Platinum SEO meta description format settings "
+"for this page."
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:179
+#: psp-include/settings/psp_basic_metabox_renderer.php:180
+msgid "Platinum SEO Settings: "
+msgstr ""
+
+#: psp-include/settings/psp_advanced_metabox_renderer.php:183
+#: psp-include/settings/psp_basic_metabox_renderer.php:184
+msgid "Switching this Off Disables ALL Platinum SEO settings for this page."
+msgstr ""
+
+#: psp-include/settings/psp_analysis_metabox_renderer.php:13
+msgid "Keywords: "
+msgstr ""
+
+#: psp-include/settings/psp_analysis_metabox_renderer.php:17
+msgid ""
+"Set comma separated meta keywords to be used for this post/page.Meta "
+"Keywords tag should also be switched on sitewide in Platinum SEO General "
+"setthings. These are also used as the Focus keywords for Platinum SEO "
+"Analysis of this page,"
+msgstr ""
+
+#: psp-include/settings/psp_analysis_metabox_renderer.php:18
+msgid ""
+"Enter comma separated focus keywords in the input above and find the "
+"analysis below"
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:17
+#: psp-include/settings/psp_basic_metabox_renderer.php:18
+#: psp-include/settings/psp_settings.php:2893
+#: psp-include/settings/psp_settings.php:2894
+#: psp-include/settings/psp_settings.php:3113
+#: psp-include/settings/psp_settings.php:3114
+#: psp-include/settings/psp_settings.php:3568
+#: psp-include/settings/psp_settings.php:3569
+msgid " "
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:29
+msgid "Desktop Metrics: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:29
+#: psp-include/settings/psp_basic_metabox_renderer.php:40
+msgid "Permalink Metrics: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:29
+#: psp-include/settings/psp_basic_metabox_renderer.php:40
+msgid "Title Metrics: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:29
+#: psp-include/settings/psp_basic_metabox_renderer.php:40
+msgid "Meta Description Metrics: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:30
+#: psp-include/settings/psp_basic_metabox_renderer.php:41
+msgid "Techblissonline Json Schema Editor"
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:30
+#: psp-include/settings/psp_basic_metabox_renderer.php:41
+msgid "Techblissonline Onpage SEO analysis Tool"
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:40
+msgid "Mobile Metrics: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:120
+msgid "SEO Title: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:124
+msgid ""
+"Set SEO Title to be used for this page. Switching this off will mean the "
+"default WordPress title will be used."
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:128
+#: psp-include/settings/psp_settings.php:1449
+#: psp-include/settings/psp_settings.php:1596
+#: psp-include/settings/psp_settings.php:2268
+#: psp-include/settings/psp_settings.php:2454
+msgid "Title Format: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:132
+msgid ""
+"Set SEO Title Format to be used for this post/page.Default is sitewide "
+"format set for this post type."
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:134
+#: psp-include/settings/psp_settings.php:2614
+msgid "Available tags:"
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:153
+msgid "Description: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:156
+msgid ""
+"Write a unique description that is short enough to fit search results "
+"snippet for this page. An ideal meta description is one that has a brief "
+"content matching what the user is searching for and inducing him to click "
+"through."
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:157
+msgid ""
+"Set meta desciption to be used for this post/page.Switching this Off will "
+"mean this description will not be used and an auto-generated description "
+"will be used, if that had been turned on sitewide in Platinum SEO General "
+"Settings."
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:161
+msgid "Max Snippet: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:162
+msgid " Characters. [Optional]"
+msgstr ""
+
+#: psp-include/settings/psp_basic_metabox_renderer.php:163
+msgid "Set max snippet length directive to Google for this post/page."
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:10
+msgid ""
+"Meta Tags for Social Media - Facebook, Twitter, Pinterest and LinkedIn: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:11
+msgid ""
+"If the following title and description fields are not filled in, "
+"corresponding Techblissonline Platinum SEO meta data will be used to render "
+"social meta tags for social sites. For more advanced control on social meta "
+"tags i.e open graph, twitter cards and schema.org tags for individual social "
+"sites, use the advanced social tab."
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:11
+msgid "Facebook Optimization Guide"
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:11
+msgid "Twitter Card Optimization Guide"
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:17
+msgid "Open Graph Object Type: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:22
+msgid ""
+" Select the facebook Open Graph object type to be used for this page. If "
+"nothing is selected here, sitewide default setting will be used provided "
+"Open Graph tags for facebook had been enabled in Social settings and the "
+"sitewide default setting is not empty."
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:26
+msgid "Twitter Card Type: "
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:32
+msgid ""
+" Select the twitter card type to be used for this page. If nothing is "
+"selected here, sitewide default setting will be used only when twitter card "
+"had been enabled in Social settings."
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:37
+msgid "Title for Social media : "
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:39
+msgid ""
+"Set title to be used when this page is shared on faceook and other social "
+"media sites."
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:43
+msgid "Description for Social media : "
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:45
+msgid ""
+"Set description to be used when this page is shared on faceook and other "
+"social media sites."
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:49
+msgid "Images for Social media : "
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:51
+msgid ""
+"Enter an URL to an image or upload an image to be used when this page is "
+"shared on faceook and other social media sites."
+msgstr ""
+
+#: psp-include/settings/psp_basic_social_metabox_renderer.php:51
+msgid "Image Guidelines"
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:168
+msgid "Platinum SEO and Social Premium Pack License"
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:174
+msgid ""
+"Enter your Platinum SEO and Social Premium Pack License Key. The license key "
+"is used for access to premium features and their upgrades."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:176
+msgid "Techblissonline Platinum SEO Premium License Key "
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:182
+msgid "Enter your Platinum SEO and Social Premium Pack Client ID."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:184
+msgid "Techblissonline Platinum SEO Premium Client ID "
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:282
+#: psp-include/settings/psp_pre_settings.php:365
+#: psp-include/settings/psp_pre_settings.php:563
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:296
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:303
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:314
+msgid "lience key is empty."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:319
+#: psp-include/settings/psp_pre_settings.php:516
+msgid "Client ID is Imvalid."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:324
+msgid "Invalid license."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:329
+#: psp-include/settings/psp_pre_settings.php:526
+msgid "Request was empty. Try again."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:334
+#: psp-include/settings/psp_pre_settings.php:531
+msgid "Request was invalid."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:339
+#: psp-include/settings/psp_pre_settings.php:536
+msgid "Client ID was empty. Try again."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:344
+#: psp-include/settings/psp_pre_settings.php:541
+msgid "Domain name was empty."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:350
+#: psp-include/settings/psp_pre_settings.php:547
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:355
+#: psp-include/settings/psp_pre_settings.php:552
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:360
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:399
+msgid "License key successfully activated for this domain!"
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:412
+msgid "Some unknown error occured during activation, Pls. try Again!"
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:477
+msgid "An error occurred while deactivating, please try again."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:511
+msgid "lience key was empty."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:601
+msgid "License key successfully deactivated for this domain!"
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:616
+msgid "Some unknown error occured during deactivation, Pls. try Again!"
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:777
+#: psp-include/settings/psp_settings.php:2805
+#: psp-include/settings/psp_settings.php:2809
+msgid "Techblissonline Platinum SEO Premium Pack"
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:778
+#: psp-include/settings/psp_settings.php:4673
+#: psp-include/settings/psp_social_settings.php:441
+#: psp-include/settings/psp_tools_settings.php:529
+msgid ""
+"You need to click the \"Save Settings\" button to save the changes you made "
+"to each individual tab before moving on to the next tab."
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:797
+msgid "active"
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:799
+msgid "Deactivate License"
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:803
+#: psp-include/settings/psp_pre_settings.php:816
+msgid "Activate License"
+msgstr ""
+
+#: psp-include/settings/psp_pre_settings.php:814
+msgid "inactive"
+msgstr ""
+
+#: psp-include/settings/psp_redirect_404.php:72
+#: psp-include/settings/psp_redirect_404.php:81
+msgid "Rows per page"
+msgstr ""
+
+#: psp-include/settings/psp_redirect_404.php:214
+#: psp-include/settings/psp_redirect_404.php:442
+msgid "You are not allowed to Delete."
+msgstr ""
+
+#: psp-include/settings/psp_redirect_404.php:239
+#: psp-include/settings/psp_redirect_404.php:489
+msgid "You are not allowed to Truncate."
+msgstr ""
+
+#: psp-include/settings/psp_redirect_404.php:261
+#: psp-include/settings/psp_redirect_404.php:509
+msgid "You are not allowed to update."
+msgstr ""
+
+#: psp-include/settings/psp_redirect_list_renderer.php:80
+msgid "Source URL: "
+msgstr ""
+
+#: psp-include/settings/psp_redirect_list_renderer.php:209
+#: psp-include/settings/psp_redirect_list_renderer.php:280
+#, php-format
+msgid "Edit \"%s\""
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:354
+msgid "Home Page SEO Settings"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:394
+msgid ""
+"Here you may add all the webmaster tools verification meta tag codes for "
+"google, bing, yandex, alexa and for any other search engine.If you had "
+"already verified with the webmaster tools, you might choose to ignore adding "
+"them here. Check "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:409
+msgid "Here you may add all the JSON Schemas for the Home page"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:418
+msgid "Home Page Title: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:419
+msgid "Home Page Meta Description: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:420
+msgid "Home Page Meta Keywords: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:421
+msgid "Additional Home Page Headers: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:422
+msgid "Schemas >> "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:422
+msgid "Generate here"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:482
+msgid "Sitewide Title Settings"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:496
+msgid " Can be used in title and description formats by specifying "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:509
+msgid "Do rewrite titles using Platinum SEO"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:510
+msgid ""
+"This should always remain checked if you want to rewrite titles using "
+"Platinum SEO"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:514
+msgid "Use title rewriter: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:523
+msgid "Force rewrite titles using Platinum SEO"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:524
+msgid ""
+"This should remain unchecked by default and should only be checked if you "
+"have issues with Platinum SEO plugin Title rewriting, despite the above "
+"option \"Use title rewriter\" remaining checked."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:528
+msgid "Force Rewrite Title: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:537
+msgid ""
+" - Page number. \"Page\" is the pagination base and it can be changed to "
+"anything you want."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:541
+msgid "Paged title Format: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:548
+#, php-format
+msgid "Other %s Settings"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:562
+msgid "Subpages of Home, taxonomies and all archves: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:575
+msgid "All RSS Feeds: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:588
+msgid "Comment pages of all post types: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:601
+msgid "Subpages of all post types created using Next Page quicktag: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:610
+#: psp-include/settings/psp_settings.php:623
+msgid "Use meta robots tag "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:614
+msgid "Use noodp: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:627
+msgid "Use noydir: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:636
+msgid ""
+"Autogenerate description for all post types, if no SEO description is set "
+"for any post."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:640
+msgid "Use description autogenerator: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:649
+msgid "Use canonical tags generated by Platinum SEO"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:653
+msgid "Use canonical tags: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:662
+msgid "Use meta keywords tag."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:666
+msgid "Use meta keywords tag: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:675
+msgid "Use Platinum SEO template placeholder script for meta tags"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:676
+msgid ""
+"Place the template acript in the theme <code>header.php</code> file where "
+"you want the Platinum SEO plugin meta tags to appear."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:680
+msgid "Use Template Script: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:689
+msgid "Disable advanced tab"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:690
+msgid ""
+"Checking this will disable Techblissonline Platinum SEO and Social Meta Box, "
+"on Post/Page Editor, for all users other than the users with administrative "
+"privileges ."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:694
+msgid "Platinum Seo and Social Meta Box Advanced Tab: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:701
+msgid " Settings"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:726
+msgid "Links to tag pages: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:752
+msgid "Login and registration links: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:801
+msgid "Credits:"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:809
+msgid "Link To Platinum SEO"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:813
+msgid "Credits: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:828
+msgid "Clean Up HTML Head Section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:838
+msgid "Remove extra feed links from head section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:842
+msgid "Extra Feed Links: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:851
+msgid "Remove RSD link from head section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:855
+msgid "RSD Link: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:864
+msgid "Remove wordpress shortlink from head section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:868
+msgid "WP shortlink: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:877
+msgid "Remove wlwmanifest link from head section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:881
+msgid "WLWmanifest link: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:890
+msgid "Remove index rel link from head section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:894
+msgid "Index rel Link: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:903
+msgid "Remove adjacent posts rel link from head section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:907
+msgid "Adjacent posts rel Link: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:916
+msgid "Remove parent post rel link from head section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:920
+msgid "Parent post rel Link: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:929
+msgid "Remove start post rel link from head section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:933
+msgid "Start post rel Link: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:942
+msgid "Remove wordpress version information from head section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:946
+msgid "WP generator: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:959
+msgid "Clean Up Comments Section"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:969
+msgid "Strip HTML in comment text"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:973
+msgid "Strip HTML in comment text: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:982
+msgid "Strip HTML from comment text RSS"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:986
+msgid "Strip HTML in comment text RSS: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:995
+msgid "Strip HTML from comment Excerpt"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:999
+msgid "Strip HTML in comment Excerpt: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1008
+msgid "Make links in comments not clickable i.e remove links"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1012
+msgid "Anchor tags in comments "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1174
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1182
+msgid "Use default settings"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1183
+msgid ""
+"If this is checked, all the user defined settings on this page will be "
+"ignored and default settings will be used."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1187
+msgid "Use Default Settings: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1201
+msgid " Used to specify the separator between breadcrumbs."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1214
+msgid ""
+"The default tag used for the breadcrumb trail container is <code>div</code>. "
+"You might also use <code>span</code> or <code>li</code> as per your stying "
+"needs."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1218
+msgid "Breadcrumb Trail Container Tag: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1227
+msgid ""
+"Show <code>Browse</code> or any other user defined text in front of the "
+"breadcrumb trail"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1228
+msgid ""
+"This should be checked if you want to show <code>Browse</code> or any other "
+"user defined text in front of the breadcrumb trail."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1232
+msgid "Show Browse: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1241
+msgid "Show on front"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1242
+msgid ""
+"This should always remain checked if you want to show the front items like "
+"network home link, site home link or home title in the breadcrumb trail of "
+"the site front page using Platinum SEO"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1246
+msgid "Show on Front: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1255
+msgid "Do trail back to main site in the case of a multisite."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1256
+msgid ""
+"This should be checked if you want to create trail back to the main site if "
+"this site is part of a multisite."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1260
+msgid "Create trail back to Main Site: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1269
+msgid "Show title as part of the breadcrumb trail"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1270
+msgid ""
+"This should be checked if you want to show the title of the page in the "
+"breadcrumb trail.Title will be in plain text and not have an anchor tag"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1274
+msgid "Show Title: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1283
+msgid "Enable the breadcrumbs"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1284
+msgid "This should be checked if you want to display the breadcrumb trail."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1289
+msgid "Display the breadcrumb trail: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1298
+msgid ""
+"The default label used if <code>Show Browse</code> is checked is "
+"<code>Browse</code>. This text is used at the start of the breadcrumb trail "
+"if <code>Show Browse</code> is checked."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1302
+msgid "Text label to use in place of the default"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1312
+msgid "The default label used to represent home page is <code>Home</code>."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1316
+msgid "Label for Home: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1325
+msgid ""
+"The default label used is <code>404 Not Found</code>. This is the label to "
+"use as page title in breadcrumb trail on 404 Error page if <code>Show Title</"
+"code> is checked."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1329
+msgid "Label to use as Title in breadcrumb trail on 404 Error page: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1412
+#: psp-include/settings/psp_settings.php:1513
+#: psp-include/settings/psp_settings.php:2256
+#: psp-include/settings/psp_settings.php:2438
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1424
+msgid "search keyword/keyphrase"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1424
+#: psp-include/settings/psp_settings.php:1430
+#: psp-include/settings/psp_settings.php:1518
+#: psp-include/settings/psp_settings.php:1522
+#: psp-include/settings/psp_settings.php:1526
+#: psp-include/settings/psp_settings.php:2188
+#: psp-include/settings/psp_settings.php:2191
+#: psp-include/settings/psp_settings.php:2199
+#: psp-include/settings/psp_settings.php:2201
+#: psp-include/settings/psp_settings.php:2208
+#: psp-include/settings/psp_settings.php:2210
+#: psp-include/settings/psp_settings.php:2217
+#: psp-include/settings/psp_settings.php:2219
+#: psp-include/settings/psp_settings.php:2352
+#: psp-include/settings/psp_settings.php:2354
+msgid "site name"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1424
+#: psp-include/settings/psp_settings.php:1518
+#: psp-include/settings/psp_settings.php:1522
+#: psp-include/settings/psp_settings.php:1526
+#: psp-include/settings/psp_settings.php:2188
+#: psp-include/settings/psp_settings.php:2191
+#: psp-include/settings/psp_settings.php:2199
+#: psp-include/settings/psp_settings.php:2201
+#: psp-include/settings/psp_settings.php:2208
+#: psp-include/settings/psp_settings.php:2210
+#: psp-include/settings/psp_settings.php:2217
+#: psp-include/settings/psp_settings.php:2219
+#: psp-include/settings/psp_settings.php:2352
+#: psp-include/settings/psp_settings.php:2354
+msgid "site description"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1424
+#: psp-include/settings/psp_settings.php:1430
+#: psp-include/settings/psp_settings.php:1518
+#: psp-include/settings/psp_settings.php:1522
+#: psp-include/settings/psp_settings.php:1526
+#: psp-include/settings/psp_settings.php:2188
+#: psp-include/settings/psp_settings.php:2191
+#: psp-include/settings/psp_settings.php:2199
+#: psp-include/settings/psp_settings.php:2201
+#: psp-include/settings/psp_settings.php:2208
+#: psp-include/settings/psp_settings.php:2210
+#: psp-include/settings/psp_settings.php:2217
+#: psp-include/settings/psp_settings.php:2219
+#: psp-include/settings/psp_settings.php:2352
+#: psp-include/settings/psp_settings.php:2354
+msgid "Separator chosen in General Settings"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1430
+msgid "\"404 Not Found\""
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1456
+#: psp-include/settings/psp_settings.php:1545
+msgid " Do not index and show this page in SERPS (Search Engine Result Pages)."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1460
+#: psp-include/settings/psp_settings.php:1598
+#: psp-include/settings/psp_settings.php:2270
+#: psp-include/settings/psp_settings.php:2457
+msgid "Meta Robots: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1467
+#: psp-include/settings/psp_settings.php:1553
+msgid ""
+" Do not show Cached link in SERPS (Search Engine Result Pages) for this "
+"page. It thus tells search engines not to store a cached copy of the page."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1478
+#: psp-include/settings/psp_settings.php:1561
+msgid ""
+" Do not show snippet (description) in SERPS (Search Engine Result Pages) for "
+"this page. It also tells search engines not to show a cached link in SERPS "
+"for this page."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1518
+msgid "Date"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1522
+msgid "Author Name"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1526
+msgid "Post type archive Title"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1575
+msgid ""
+" Set the URL to which users landing on this page should be redirected to. "
+"This is equivalent to disabling this archive page. You may redirect this "
+"page to the most appropriate page on your site, which might be the Front "
+"page or Home page of this site."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1675
+#: psp-include/settings/psp_settings.php:2806
+msgid "Redirections"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1686
+msgid ""
+"Turn ON to enable redirections created using Platinum SEO (Recommended)."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1691
+msgid "Redirection: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1691
+msgid "what does this do?"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1700
+msgid ""
+"Turn ON to enable automatics redirection of all Posts using Platinum SEO. "
+"this will automatically take care of changes in permalink format "
+"(Recommended)."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1705
+msgid "Automatically Redirect Posts: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1705
+msgid "How does this help?"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1713
+#: psp-include/settings/psp_settings.php:1792
+msgid "Rows"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1714
+msgid "Set the max number of entries in Redirection log.(Highly Recommended)"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1718
+msgid "Limit Redirection Log to: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1728
+msgid ""
+"Turn ON to disable WordPress 404 Canonical Redirect Guessing (Recommended)."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1732
+msgid "Disable WP 404 Redirect Guessing: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1732
+#: psp-include/settings/psp_settings.php:1782
+msgid "How does this work?"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1740
+msgid "404 Errors"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1751
+msgid "Turn ON to monitor 404 errors using Platinum SEO."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1755
+msgid "Track 404 errors: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1764
+msgid ""
+"Turn ON to track only 404 errors that occur due to a bad link reference from "
+"the site linking to your site."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1768
+msgid "Log 404s with referrers only: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1777
+msgid ""
+"Turn ON to log 404/410 errors encountered on your site by Search Engine Bots "
+"only - Eg. Googlebot and Bingbot (Recommended)."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1782
+msgid "Log errors for Search Engine Bots only: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1793
+msgid "Set the max number of entries in 404 log.(Highly Recommended)"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1797
+msgid "Limit 404 Log to: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1803
+msgid "Permalink Structure for Taxonomies"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1813
+#: psp-include/settings/psp_settings.php:1829
+msgid "Remove Base"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1817
+msgid "Category: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1936
+msgid "Settings for generating Json-LD Schemas"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1942
+msgid "Site name for Google"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1950
+msgid "Sitelinks Search Box in Google"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1958
+msgid "Enable"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1962
+msgid "Sitelinks Searchbox: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1971
+msgid ""
+"Here you can specify a search URL pattern for sending queries to your site "
+"search engine. You need to change this only if the URL is different from "
+"what is defined above. For most wordpress sites, leaving this unchanged "
+"would work."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1975
+msgid "Sitelinks Search box Target URL: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1981
+msgid "Knowledge Graph Settings for Google Search"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1991
+msgid "Enable Knowledge Graph Tags for Google"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:1995
+msgid "Knowledge Graph Tags: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2007
+msgid ""
+"Select a profile type to be used for Knowledge Graph. For complete reference "
+"of knowledge graph profile types refer "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2011
+msgid "Profile Type for Knowledge Graph: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2020
+msgid ""
+"Enter the name of the organization/person to be used on knowledge graph for "
+"this domain. For eg: \"Tehblissonline\" is the organization name used for "
+"the site http://techblissonline.com/."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2024
+msgid "Name: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2034
+msgid ""
+"Enter the URL to the company/organization logo or upload a logo to use on "
+"Knowledge Graph"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2039
+msgid "Company/Organization logo to use on knowledge graph: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2045
+msgid "Social Profiles"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2054
+msgid "Enter the facebook profile URL to be associated with this domain/site."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2058
+msgid "Facebook profile URL: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2067
+msgid "Enter the twitter profile URL to be associated with this domain/site."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2071
+msgid "Twitter profile URL: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2080
+msgid "Enter the google+ profile URL to be associated with this domain/site."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2084
+msgid "Google+ profile URL: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2093
+msgid "Enter the instagram profile URL to be associated with this domain/site."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2097
+msgid "Instagram profile URL: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2106
+msgid "Enter the linkedin profile URL to be associated with this domain/site."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2110
+msgid "LinkedIn profile URL: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2119
+msgid "Enter the youtube profile URL to be associated with this domain/site."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2123
+msgid "Youtube profile URL: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2188
+#: psp-include/settings/psp_settings.php:2191
+#: psp-include/settings/psp_settings.php:2199
+#: psp-include/settings/psp_settings.php:2201
+#: psp-include/settings/psp_settings.php:2208
+#: psp-include/settings/psp_settings.php:2210
+#: psp-include/settings/psp_settings.php:2217
+#: psp-include/settings/psp_settings.php:2219
+#: psp-include/settings/psp_settings.php:2352
+#: psp-include/settings/psp_settings.php:2354
+msgid "Platinum SEO title"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2188
+#: psp-include/settings/psp_settings.php:2191
+msgid "Term name"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2191
+msgid "Term description"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2191
+#: psp-include/settings/psp_settings.php:2201
+#: psp-include/settings/psp_settings.php:2210
+#: psp-include/settings/psp_settings.php:2219
+#: psp-include/settings/psp_settings.php:2354
+msgid "Platinum SEO Description"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2199
+#: psp-include/settings/psp_settings.php:2201
+msgid "Category name"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2201
+msgid "Category description"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2208
+#: psp-include/settings/psp_settings.php:2210
+msgid "Tag name"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2210
+msgid "Tag description"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2217
+#: psp-include/settings/psp_settings.php:2219
+msgid "Post Format name"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2219
+msgid "Post Format description"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2251
+#: psp-include/settings/psp_settings.php:2425
+msgid "Hide for all users other than Admin"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2269
+#: psp-include/settings/psp_settings.php:2455
+msgid "Meta Description Format: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2271
+#: psp-include/settings/psp_settings.php:2458
+#, php-format
+msgid "Hide %s Metabox:"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2352
+#: psp-include/settings/psp_settings.php:2354
+msgid "Wordpress Title"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2352
+msgid "Taxonomy"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2433
+msgid ""
+"Select a default taxonomy to be used for this post type in breadcrumb trail. "
+"Make sure that all posts of this post type are tagged with terms falling "
+"under this taxonomy,"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2439
+#, php-format
+msgid "%s (Media) Settings"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2459
+msgid "Taxonomy for breadcrumb trail: "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2554
+msgid "These settings are applied throughout the site wherever appropriate."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2555
+msgid ""
+"The Title separator can be used in all Title formats and Description formats "
+"by specifying the tag - "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2556
+msgid "Home page SEO settings"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2556
+msgid ""
+"Set the title and meta description tags used on home page of your site here."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2557
+msgid ""
+"Set the title and description formats for some default and all custom "
+"taxonomies."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2558
+msgid ""
+"Set the title and description formats for some default and all custom post "
+"types."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2559
+msgid "Set the title format for search result pages."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2560
+msgid "Set the title format for 404 page."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2561
+msgid ""
+"These Nofollow settings are applied throughout the site wherever appropriate."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2562
+msgid ""
+"These settings, if checked, will remove the base from taxonomies like "
+"Category and other custom taxonomies, if any. If \"Remove base\" is chosen "
+"for Category then the corresponding base will be removed from the permalink "
+"structure for categories."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2563
+msgid "Manage your Redirecions "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2563
+#: psp-include/settings/psp_settings.php:2564
+msgid "here "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2564
+msgid "Manage your 404 errors "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2565
+msgid "Remove unwanted links from HTML"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2566
+msgid ""
+"Many of these links might not be needed in the head section for most sites "
+"and removing these might help reduce page size and also improve crawlability "
+"of more imortant links. So you may choose to remove those that are not "
+"needed for you site."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2567
+msgid ""
+"Strip HTML and anchor tags embedded in comments. Note that these remove the "
+"HTML and links embedded in the comments and not the comment author links."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2568
+msgid ""
+"Here you can enable the markup for \"Google Sitelinks Search Box\" on your "
+"site frontpage. For more information on this refer"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2568
+msgid ""
+"However, you must remember that though you might chose to implement this "
+"markup by enabling this, google algorithms determine whether or not to show "
+"a sitelink search box in Google SERPS for any given domain."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2578
+msgid ""
+"These breadcrumb settings are for displaying breadcrumbs on the Post. It is "
+"built on top of Justin Tadlock's @BreadcrumbTrail package. Place the code"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2578
+msgid ""
+" in your theme's single.php, at an apppropriate location, to display the "
+"generated breadcrumb trail. You may add the breadcrumb Json-LD schema (along "
+"with other schemas) in the Techblissonline Platinum SEO metabox for the Post."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2579
+msgid ""
+"The following settings are not necessary if you had added these schemas in "
+"the Home page and/or Contacts Page JSON Schema Editor settings of this "
+"plugin."
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2579
+msgid "Schema for enabling Sitelink Search Box in Google and"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2579
+msgid "Schema for Knowledge Graph"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2791
+#: psp-include/settings/psp_settings.php:2792
+msgid "Techblissonline Platinum SEO and social Pack"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2791
+msgid "Platinum SEO and Social Pack"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2801
+msgid "Techblissonline Platinum SEO Social"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2801
+msgid "Social"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2804
+msgid "Techblissonline Platinum SEO Tools"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2804
+msgid "SEO - Editors"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2805
+msgid " SEO Tools"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2806
+msgid "Techblissonline Platinum SEO Redirections"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2807
+msgid "Techblissonline Platinum SEO 404 Manager"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2807
+msgid "Manage 404 Errors"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2809
+msgid "Premium - Licenses"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2890
+#: psp-include/settings/psp_settings.php:3110
+msgid " Techblissonline Platinum SEO and Social Meta Box "
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2900
+#: psp-include/settings/psp_settings.php:3120
+#: psp-include/settings/psp_settings.php:3574
+msgid " SEO"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2902
+#: psp-include/settings/psp_settings.php:3121
+#: psp-include/settings/psp_settings.php:3575
+msgid " Analysis"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2903
+#: psp-include/settings/psp_settings.php:2905
+#: psp-include/settings/psp_settings.php:3123
+#: psp-include/settings/psp_settings.php:3125
+#: psp-include/settings/psp_settings.php:3577
+#: psp-include/settings/psp_settings.php:3579
+msgid " Advanced"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:2904
+#: psp-include/settings/psp_settings.php:3124
+#: psp-include/settings/psp_settings.php:3578
+msgid "  Basic"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:3279
+#: psp-include/settings/psp_settings.php:3286
+#: psp-include/settings/psp_settings.php:3300
+msgid " Techblissonline Platinum SEO and Social Meta Box"
+msgstr ""
+
+#: psp-include/settings/psp_settings.php:4672
+msgid "Techblissonline Platinum SEO and Social Settings"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:76
+msgid "Facebook Open Graph Sitewide Settings"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:86
+msgid "Enable Opengraph Tags for Facebook"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:90
+msgid "Open Graph Tags: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:99
+msgid ""
+"Enter the site name to use while sharing pages from this domain/site. For "
+"eg: \"Tehblissonline\" is the sitename used for the site http://"
+"techblissonline.com/. If this is left blank, then the default wordpress site "
+"name will be used."
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:103
+msgid "Site Name: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:112
+msgid ""
+"Enter the user ID of one or more admins for the FB app/page, if any, of your "
+"domain/website. You can enter Facebook username rather than the numeric ID, "
+"which is probably easier to debug and manage. You can find your user name on "
+"your profile page in the page URL. For eg., if you page is <code>facebook."
+"com/johndoe</code> then your username is <code>johndoe</code>. If you want "
+"to get and use your numeric ID, you can find it by visiting <code>http://"
+"graph.facebook.com/johndoe</code>"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:116
+msgid "fb:admins (optional): "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:139
+msgid ""
+"Enter the Facebook App ID for the FB app,if any, created for your domain. "
+"This would help to get facebook domain insights about the page(s) on which "
+"it is added by way of a open graph meta tag."
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:143
+msgid "Facebook Application ID: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:152
+msgid ""
+"Enter the Facebook App Secret ID for the FB app,if any, created for your "
+"domain. This would help to get facebook engagement metrics for the page(s) "
+"on which Facebook share buttons is/are added."
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:156
+msgid "Facebook Application Secret: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:165
+msgid ""
+"Enter the Facebook profile ID of a user that can be followed. Here you may "
+"even enter the page id of a facebook page that is set up for this domain/"
+"site."
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:169
+msgid "Facebook Profile ID (Optional): "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:178
+msgid ""
+"Enter the Facebook URL to the page set up for this site. For eg: https://www."
+"facebook.com/Techblissonline"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:182
+msgid "Facebook Publisher: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:194
+msgid ""
+"Select an open graph type to be used by default for individual posts/pages "
+"of your site. For eg., if your site is a blog, you can enter <code>article</"
+"code> as the default open graph type. Note that this can be overridden "
+"through <code>Social</code> settings for your individual post in "
+"\"Techblissonline Platinum SEO and Social Meta Box\" on your post editor. "
+"For complete reference of open graph types refer <a href=\"https://ogp.me/"
+"#object-type\" target=\"_blank\">facebook developer docs reference.</a>"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:198
+msgid "Facebook Open Graph Type: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:210
+msgid ""
+"Enter the locale that the facebook object tags are marked up in. Default is "
+"en_US. For valid values refer <a href=\"https://techblissonline.com/facebook-"
+"locales-and-languages/\" target=\"_blank\">Techblissonline</a>"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:214
+msgid "Open Graph Locale: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:223
+msgid ""
+"Enter the image URL or upload an image to be used as a default image while "
+"sharing any post/page on facebook. This will be used if a post/page does not "
+"have any image"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:228
+msgid "Default image for sharing on facebook: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:234
+msgid "Twitter Card Sitewide Settings"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:242
+msgid "Enable Twitter Card"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:246
+msgid "Twitter Card: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:258
+msgid ""
+"Enter the twitter card type to be used by default for individual posts/pages "
+"of your site. For eg., if your site is a blog, you can enter <code>summary</"
+"code> as the default twitter card type. Note that this can be overridden "
+"through <code>Social</code> settings for your individual post in "
+"\"Techblissonline Platinum SEO and Social Meta Box\" on your post editor. "
+"For complete reference of twitter card types refer <a href=\"https://"
+"developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-"
+"started\" target=\"_blank\">twitter development document reference.</a>"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:262
+msgid "Twitter CardType: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:271
+msgid ""
+"The Twitter <code>@username</code> the card should be attributed to. This is "
+"usually the twitter handle created for your domain /website. However, You "
+"might even choose to use your personal twitter user id here. If you twitter "
+"user id is <code>@johndoe</code>, enter <code>johndoe</code> as the user id "
+"here. This user id is required for <a href=\"https://analytics.twitter.com/"
+"\" target=\"_blank\">Twitter Card analytics</a>"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:275
+msgid "Twitter User: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:284
+msgid ""
+"Enter the image URL or upload an image to be used as a default image while "
+"sharing any post/page on twitter. This will be used if a post/page does not "
+"have any image"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:289
+msgid "Default image for sharing on twitter: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:295
+msgid "Pinterest and Linkedin Settings"
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:304
+msgid "Enable markup for Pinterest and Linkedin."
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:308
+msgid "Enable Markup: "
+msgstr ""
+
+#: psp-include/settings/psp_social_settings.php:439
+msgid ""
+"Techblissonline Platinum SEO Pack - \n"
+"\t\t\tSocial"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:91
+msgid "Google analytics Tracking"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:99
+msgid "Yes"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:100
+msgid ""
+"Check to add Google analytics Tracking Code with this plugin. If this is not "
+"checked, trscking code will not be added by this plugin."
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:104
+msgid "Add Tracking Code: "
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:113
+msgid ""
+"Here you may enter the google analytics tracking code for adding it across "
+"all pages of the site."
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:116
+msgid "Tracking Code:"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:167
+msgid "Robots.txt Editor"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:184
+msgid "Yes, use a virtual robots.txt file"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:185
+msgid ""
+"Checking this will not create a physical robots.txt file but your robots.txt "
+"content will be visible to all visitors including search engine bots when "
+"they try to access the robots.txt file in the root. Even if you keep this "
+"unchecked, a physical robots.txt file will be created by Techblissonline "
+"platinum seo when you hit the \"Save Settings\" button.However, This will "
+"happen only if the file is writeable to root. If the file is not writeable "
+"to root, the content that you see here will be presented as a virtual rotots."
+"txt file & this is done by wordpress by default."
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:189
+msgid "Do you want to use the virtual robots.txt file created by wordpress? "
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:213
+msgid ""
+"Robots.txt file exists in the root but it is not writeable. Make sure that "
+"it is writeable for you to write into it here."
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:226
+msgid "Robots.txt Content: "
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:244
+msgid "A physical robots.txt file does not exist in the root."
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:247
+msgid ""
+"A physical robots.txt file exists in the root but it is not writeable. "
+"Ensure that it is writeable for you to edit it here."
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:332
+msgid ".htaccess Editor"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:361
+msgid ""
+".htaccess file exists in the root but it is not writeable. Make sure that it "
+"is writeable for you to write into it here."
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:372
+msgid ".htaccess Content: "
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:388
+msgid ""
+"A .htaccess file does not exist in the root! Ensure that you have not "
+"accidentally deleted it!"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:391
+msgid ""
+"A .htaccess file exists in the root but it is not writeable. Ensure that it "
+"is writeable for you to edit it here."
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:467
+msgid "You cannot edit the robots.txt file."
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:489
+msgid "Updated Robots.txt"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:496
+msgid "Created Robots.txt"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:505
+msgid "You cannot edit the .htaccess file."
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:519
+msgid "Updated .htaccess file"
+msgstr ""
+
+#: psp-include/settings/psp_tools_settings.php:528
+msgid "Techblissonline Platinum SEO Pack Tools"
+msgstr ""
